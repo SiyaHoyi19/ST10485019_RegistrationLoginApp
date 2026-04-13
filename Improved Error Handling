@@ -1,0 +1,2 @@
+ Refining registerUser to return clear, user‑friendly error messages.
+The importance of consistent success/failure messages for usability.
