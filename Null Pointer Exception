@@ -1,0 +1,2 @@
+Identified the error when .equals() was called null.
+Adding null checks and guarding login until registration succeeds.
